@@ -1,0 +1,23 @@
+header{
+    background-color: aqua;
+    height: 4em;
+}
+
+nav{
+    background-color:lightcoral;
+    height: 2em;
+}
+aside{
+    float: left;
+    background-color: rgb(178, 204, 133);
+    height: 15em;
+    width: 20%;
+}
+article{
+    background-color: rgb(197, 197, 197);
+    height: 15em;
+}
+footer{
+    background-color: rgb(60, 60, 255);
+    height: 3em;
+}
