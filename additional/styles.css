@@ -1,0 +1,7 @@
+p{
+    width: 100px;
+    height: 100px;
+    background-color: darkgreen;
+    margin: 5px 0 5px 0;
+    display: inline-block;
+}
